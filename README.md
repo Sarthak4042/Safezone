@@ -1,2 +1,2 @@
 # Safezone
-Realtime safety equipment detection in industrial environment
+Realtime safety equipment detection in industrial environment using yolo
